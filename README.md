@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# Smart Finance Tracker
 
 ## Table of Contents
 - [About](#about)
