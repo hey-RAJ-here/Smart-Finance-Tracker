@@ -5,12 +5,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 
-- [Usage](#usage)
-- [Authentication](#authentication)
-- [Dark and Light Mode](#dark-and-light-mode)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
