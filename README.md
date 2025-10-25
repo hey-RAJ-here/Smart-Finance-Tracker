@@ -41,7 +41,7 @@ This is a MERN (MongoDB, Express, React, Node.js) Stack web application designed
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/PramithaMJ/Personal_Financial_Tracker_Web_App.git
+git clone 
 ```
 
 ## Video Demo
