@@ -47,10 +47,10 @@ git clone https://github.com/hey-RAJ-here/Smart-Finance-Tracker.git
 ## Screenshots
 
 -- Getting Started
-<img width="1710" alt="Screenshot 2023-10-20 at 2 14 39 AM" src="https://github.com/PramithaMJ/Personal_Financial_Tracker_Web_App/assets/123730262/d6ba0b27-ebb6-4ae7-af31-4211d479cc5f">
+<img width="1710" alt="Screenshot 2023-10-20 at 2 14 39 AM" src="https://github.com/hey-RAJ-here/Smart-Finance-Tracker.git/assets/123730262/d6ba0b27-ebb6-4ae7-af31-4211d479cc5f">
 
 -- Loggin Page
-<img width="1710" alt="Screenshot 2023-10-20 at 2 14 58 AM" src="https://github.com/PramithaMJ/Personal_Financial_Tracker_Web_App/assets/123730262/1421c620-2ede-4166-b4b1-a33e55f3e85e">
+<img width="1710" alt="Screenshot 2023-10-20 at 2 14 58 AM" src="https://github.com/hey-RAJ-here/Smart-Finance-Tracker.git/123730262/1421c620-2ede-4166-b4b1-a33e55f3e85e">
 
 
 -- SignUp Page
